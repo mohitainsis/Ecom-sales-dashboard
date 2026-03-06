@@ -44,7 +44,8 @@ The dashboard provides insights into:
 
 ## Repository Structure
 
-<!-- Ecom-sales-dashboard
+```
+ Ecom-sales-dashboard
 │
 ├── data
 │   ├── Orders.xlsx
@@ -56,4 +57,5 @@ The dashboard provides insights into:
 │
 ├── Ecom Sales Report.pbit
 │
-└── Readme.md -->
+└── Readme.md
+```
